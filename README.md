@@ -1,0 +1,1 @@
+Just a repo containing my attempts at the Golang book. Finding Go pretty fun so far.
